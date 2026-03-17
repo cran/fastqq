@@ -1,7 +1,7 @@
 Package: fastqq
 Type: Package
 Title: Faster Generation of Quantile Quantile Plots with Large Samples
-Version: 0.1.4
+Version: 0.1.5
 Authors@R: c(person("Gudmundur", "Einarsson", email = "gudmundur.einarsson.phd@gmail.com",
   role = c("aut", "cre")),
   person("Hafsteinn", "Einarsson", email = "hafsteinne@hi.is",
@@ -21,8 +21,8 @@ LinkingTo: Rcpp
 Suggests: testthat (>= 3.0.0)
 Config/testthat/edition: 3
 NeedsCompilation: yes
-Packaged: 2026-03-13 07:32:31 UTC; gumeo
+Packaged: 2026-03-17 13:24:52 UTC; gudmundureinarsson
 Author: Gudmundur Einarsson [aut, cre],
   Hafsteinn Einarsson [aut]
 Repository: CRAN
-Date/Publication: 2026-03-13 07:50:02 UTC
+Date/Publication: 2026-03-17 14:10:02 UTC

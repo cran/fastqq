@@ -1,6 +1,6 @@
-5bf12946037d3ed84465cb84ea7a1a77 *DESCRIPTION
+399eef47edc1bb96c2fea6a445ef7d04 *DESCRIPTION
 51116108453a6f96e1650cda36d806ae *NAMESPACE
-f98d8a98a5ba78f08bb160f79d58f4b3 *NEWS.md
+fe06f1312b1dee277440ea99848c3f10 *NEWS.md
 6d4efebfe1bba19c582513265f7cb3fb *R/RcppExports.R
 ce28fe16378747fdffe83f5dd5bf6f57 *R/fastqq-package.R
 2def730fb372e0195affaab55c745753 *R/qq.R
@@ -28,4 +28,4 @@ bbecf8098e3132564b8376bf4689dac1 *man/qqchisq1.Rd
 270e0fa21d027cdf51531f0b765c732d *src/code.cpp
 f2a37696418d749f1570d5622b737418 *tests/testthat.R
 d1dcdb8413266096440b61bcb2e15078 *tests/testthat/test-qqchisq1.R
-10f1229194705b82a1c63d0e695ca61a *tests/testthat/test-qqlog.R
+a686fcf45333b4174832d767774e6d41 *tests/testthat/test-qqlog.R
